@@ -9,4 +9,4 @@ irb :0012 > name_and_age.values
 
 # A Note on Hash Order
 
-# In past versions of Ruby, you could not rely on hashes maintaining order. Since Ruby 1.9, hashes maintain the order in which they're stored. It's important that you know this because if you are ever working with an older version of Ruby (anything before Ruby 1.9) you cannot rely on the hashes being in any specific order.
+# In past versions of Ruby, you could not rely on hashes maintaining order. Since Ruby 1.9, hashes maintain the order inwhich they're stored. It's important that you know this because if you are ever working with an older version of Ruby (anything before Ruby 1.9) you cannot rely on the hashes being in any specific order.
