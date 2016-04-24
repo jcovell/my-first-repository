@@ -1,4 +1,4 @@
-# 5.Why does the following code give the following error when we run it?
+# 5. Why does the following code give the following error when we run it?
 
 def execute(block)
   block.call

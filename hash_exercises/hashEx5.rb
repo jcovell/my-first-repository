@@ -6,7 +6,7 @@ family = {uncles: ["bob", "joe", "steve"],
             aunts: ["mary","sally","susan"]}
           
 if family.has_value?("tom")
-        puts "Present."
+      puts "Present."
 else
-    puts "Not present."
+  puts "Not present."
 end

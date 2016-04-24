@@ -8,6 +8,8 @@ names.each do |name|
   x += 1
 end
 
-# We've added the counter x to add a number before each 
-# name, creating a numbered list output. The number x is 
-# incremented every time we go through the iteration.
+=begin 
+We've added the counter x to add a number before each 
+name, creating a numbered list output. The number x is 
+incremented every time we go through the iteration.
+=end

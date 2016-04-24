@@ -1,4 +1,4 @@
-# The map method iterates over an array applying a block to each element of the array and returns a new array with those results.
+# The map method iterates over an array applying a block to each element of the array and returns a new array with thoseresults.
 
 a = [1, 2, 3, 4]
 puts a.map { |num| num**2 }

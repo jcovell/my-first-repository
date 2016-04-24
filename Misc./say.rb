@@ -1,5 +1,5 @@
 def say(words='hello')
-    puts words + '.'
+  puts words + '.'
 end
 
 say()

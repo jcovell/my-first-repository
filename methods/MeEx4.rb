@@ -1,7 +1,7 @@
 def scream(words)
-    words = words + "!!!!"
+  words = words + "!!!!"
 
-    puts words
+  puts words
 end
 
 scream("Yippeee")

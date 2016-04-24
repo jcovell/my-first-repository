@@ -1,4 +1,4 @@
-# examples using common formats: JSON, CSV, XML/HTML, and XLS. Files can exist before and after a program runs. Files can also be shared and validated to formats that have nothing in common with one another. In this chapter we will create, open, and edit files using Ruby. We will look at how Files fit into the grand scheme of programming and look at examples using common formats: JSON, CSV, XML/HTML, and XLS.
+# examples using common formats: JSON, CSV, XML/HTML, and XLS. Files can exist before and after a program runs. Files canalso be shared and validated to formats that have nothing in common with one another. In this chapter we will create, open, and edit files using Ruby. We will look at how Files fit into the grand scheme of programming and look at examples using common formats: JSON, CSV, XML/HTML, and XLS.
 
 # To create a file:
 my_file = File.new("simple_file.txt", "w+")
@@ -14,7 +14,7 @@ file.open
 File.read("file_name") #Spits our entire contents of the file.
 File.readlines("file_name") # Reads the entire file based on individual lines and returns those lines in an array.
 
-# Adding content to simple_file.txt. Note that in most programming languages, including Ruby, the flow for working with files is open-use-close. We can use write or puts to write files. The subtle difference between the two being puts adds a line break to the end of strings, while write does not.
+# Adding content to simple_file.txt. Note that in most programming languages, including Ruby, the flow for working withfiles is open-use-close. We can use write or puts to write files. The subtle difference between the two being puts adds a line break to the end of strings, while write does not.
 
 # Ruby will automagically close the file if the open method is called with a block.
 

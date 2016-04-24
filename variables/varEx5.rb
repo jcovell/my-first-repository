@@ -8,12 +8,11 @@ puts x
 
 Y = 0
 3.times do
-    y += 1
-    x = y
+  y += 1
+  x = y
 end
 puts x
 
-# Gives an error because the x was 
-# created withing the do/end block.
+# Gives an error because the x was created within the do/end block.
 
 

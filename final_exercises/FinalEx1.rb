@@ -7,5 +7,5 @@ arr.each { |number| puts number }
 # or
 
 arr.each do |number|
-    puts number
+  puts number
 end

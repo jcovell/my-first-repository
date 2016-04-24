@@ -1,6 +1,6 @@
 a = [1, 2, 3]
 def mutate(array)
-    array.pop
+  array.pop
 end
 
 p "Berfore mutate method: #{a}"

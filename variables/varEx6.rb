@@ -1,2 +1,1 @@
-# There is a undefined local 
-# variable or method called shoes.
+# There is a undefined local variable or method called shoes.

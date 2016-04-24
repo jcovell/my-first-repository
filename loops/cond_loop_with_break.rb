@@ -1,7 +1,9 @@
-# When you run this program you can see that 
-# the entire loop exits when the value of x 
-# reaches 7 in the loop. That is why the print 
-# out only goes to 5.
+=begin
+When you run this program you can see that 
+the entire loop exits when the value of x 
+reaches 7 in the loop. That is why the print 
+out only goes to 5.
+=end
 
 x = 0
 

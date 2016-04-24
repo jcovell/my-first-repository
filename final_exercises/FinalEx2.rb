@@ -7,7 +7,7 @@ arr.each { |number| puts number if number > 5 }
 # or
 
 arr.each do |number|
-    if number > 5
-        puts number
-    end
+  if number > 5
+      puts number
+  end
 end

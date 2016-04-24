@@ -1,7 +1,7 @@
 a = [1, 2, 3]
  
 def no_mutate(array)
-    array.last
+  array.last
     
 end
 
